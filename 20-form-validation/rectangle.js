@@ -116,5 +116,9 @@ $(function(){
         $msg.html('');
             //prompt error message
             //return false;
+            
+        return true;
     }
+
+
 });
