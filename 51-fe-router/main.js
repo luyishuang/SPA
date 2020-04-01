@@ -6,4 +6,4 @@ $(function(){
   
     $block.css("background-color",color);
     }
-  })
+})
